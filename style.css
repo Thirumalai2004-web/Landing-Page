@@ -1,0 +1,30 @@
+.hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.feature-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+.container a{
+    color: white;
+}
+.enroll-btn:hover{
+    background-color: rgb(121, 119, 119) !important;
+    color: black !important;
+
+}
+/* .card:hover{
+    background-color: black !important;
+    color: white !important;
+}
+.list-group-item:hover{
+    background-color: rgb(58, 58, 58) !important;
+    color: white !important;
+}
+.btn:hover{
+    background-color: white !important;
+    color: black !important;
+} */
